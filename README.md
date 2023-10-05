@@ -16,3 +16,10 @@ This repo contains figma designs for habit tracker, follow the instructions to c
 1. Github repo link containing React code.
 2. Hosted URL.
 3. Submit these in [this](https://forms.gle/eGcvRJvEqVbQrBUF7) form.
+
+## Expectations
+1. 80-90% screen-to-screen replication.
+2. All the data logic and appropriate interations should be there.
+3. Clean code.
+4. Bonus - Responsive.
+5. Bonus - Backend.
